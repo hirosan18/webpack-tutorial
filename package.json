@@ -1,0 +1,23 @@
+{
+  "name": "webpack-tutorial",
+  "version": "1.0.0",
+  "description": "http://webpack.github.io/docs/tutorials/getting-started/",
+  "main": "bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://hirosan18@github.com/hirosan18/webpack-tutorial.git"
+  },
+  "author": "hirosan18",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hirosan18/webpack-tutorial/issues"
+  },
+  "homepage": "https://github.com/hirosan18/webpack-tutorial#readme",
+  "dependencies": {
+    "css-loader": "^0.23.1",
+    "style-loader": "^0.13.1"
+  }
+}
